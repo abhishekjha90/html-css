@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(43, 28, 28);
+}
+#navbar{
+    background-color: black;
+    color: white;
+    height: 40px;
+
+
+}
+button{
+    background-color: burlywood;
+}
+  .logo{
+    margin-left: 120px;
+    color: burlywood;
+    font-size: 35px;
+}
+a{
+    text-decoration: none;
+    margin-left: 130px;
+    color: white;
+}
+input{
+    margin-left: 150px;
+    padding-top: 5px;
+}
